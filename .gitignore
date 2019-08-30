@@ -1,0 +1,5 @@
+Week*/*
+!.gitignore
+!Week*/src/
+*.zip
+*.jar
